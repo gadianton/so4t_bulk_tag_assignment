@@ -1,5 +1,5 @@
 # Bulk Tag Assignment for Stack Overflow for Teams
-A Python script for Stack Overflow for Teams that will assign a specified tag to all existing questions
+A Python script that uses the Stack Overflow for Teams API to assign a specified tag to all existing questions
 
 ## Table of Contents
 * [Requirements](https://github.com/jklick-so/so4t_bulk_tag_assignment?tab=readme-ov-file#requirements)
