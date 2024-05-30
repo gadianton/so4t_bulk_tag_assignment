@@ -41,7 +41,7 @@ In a terminal window, navigate to the directory where you unpacked the script. R
 * YOUR_TOKEN: The token you generated in the previous step.
 * TAG_NAME: The name of the tag you want to assign to existing content.
 
-> WARNING: As currently designed, this will assign the given tag to ALL existing questions. If subset of questions is desired, feel free modify the script to accept a list of questions or question IDs. 
+> WARNING: As currently designed, this will assign the given tag to ALL existing questions. If a subset of questions is desired, feel free modify the script to accept a list of questions or question IDs. 
 
 
 ## Support, security, and legal
