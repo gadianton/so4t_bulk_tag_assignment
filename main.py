@@ -82,7 +82,7 @@ def add_tag_to_questions(client, questions, new_tag):
 
 def export_to_json(file_name, data):
 
-    with open(file_name+ '.json', 'w') as f:
+    with open(file_name + '.json', 'w') as f:
         json.dump(data, f, indent=4)
 
 
