@@ -43,7 +43,7 @@ In a terminal window, navigate to the directory where you unpacked the script. R
 
 > WARNING: As currently designed, this will assign the given tag to ALL existing questions. If a subset of questions is desired, feel free modify the script to accept a list of questions or question IDs. 
 
-Miscellaneous usage notes:
+**Miscellaneous usage notes:**
 * If the desired tag does not already exist, it will be automatically created.
 * If any questions already have the associated tag, they will be skipped (no further action is required)
 * If you have any content (i.e. questions) that is already at the max amount of allowable tags (i.e. 5), this script will be unable to add additional tags to those questions. Upon completion of the script, any such questions will be listed in a file titled `questions_with_max_tags.json`, located in the same working directory from which you ran the script. You can then free up a tag slot on each of those items and rerun the script.
